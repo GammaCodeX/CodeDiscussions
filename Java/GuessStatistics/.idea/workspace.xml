@@ -27,8 +27,8 @@
       <file leaf-file-name="InternationalizedTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/InternationalizedTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+            <state relative-caret-position="306">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,8 +63,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="546" />
-    <option name="y" value="170" />
+    <option name="x" value="148" />
+    <option name="y" value="151" />
     <option name="width" value="1365" />
     <option name="height" value="828" />
   </component>
@@ -78,25 +78,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="GuessStatistics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuessStatistics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuessStatistics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuessStatistics" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuessStatistics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuessStatistics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuessStatistics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuessStatistics" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="GuessStatistics" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -212,12 +193,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534176710295</updated>
-      <workItem from="1534176738632" duration="974000" />
+      <workItem from="1534176738632" duration="1325000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="InternationalizedTests - 2018.08.13 at 18h 26m 59s.xml">
+      <configuration name="InternationalizedTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InternationalizedTests - 2018.08.13 at 18h 27m 21s.xml">
+      <configuration name="InternationalizedTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2018.08.13 at 18h 28m 42s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="874000" />
+    <option name="totallyTimeSpent" value="1325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1634" height="1066" extended-state="6" />
@@ -272,8 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/InternationalizedTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        <state relative-caret-position="306">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

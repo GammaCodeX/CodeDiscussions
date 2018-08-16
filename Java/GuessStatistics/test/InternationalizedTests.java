@@ -30,4 +30,14 @@ public class InternationalizedTests {
 		assertThat(subject.printGuessStatistics('l', 3), is(equalTo("Der er 3 l'er")));
 	}
 
+	@Test
+	public void testDoesntCountOver1000() {
+		AnswerFormatter danish = new InternationalFormatter(Locale.forLanguageTag("da-DK"));
+		AnswerFormatter english = new InternationalFormatter(Locale.forLanguageTag("en-UK"));
+		assertThat(danish.printGuessStatistics('l',1000), is(equalTo("Der er 1000 l'er")));
+		assertThat(danish.printGuessStatistics('l',1001), is(equalTo("Der er over 1000 l'er")));
+		assertThat(english.printGuessStatistics('l',1000), is(equalTo("There are 1000 ls")));
+		assertThat(english.printGuessStatistics('l',1001), is(equalTo("There are over 1000 ls")));
+	}
+
 }

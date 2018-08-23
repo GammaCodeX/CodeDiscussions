@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GuessStatistics/GuessStatistics.iml" filepath="$PROJECT_DIR$/GuessStatistics/GuessStatistics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortPerformance/src/SortPerformance.iml" filepath="$PROJECT_DIR$/SortPerformance/src/SortPerformance.iml" />
     </modules>
   </component>
 </project>

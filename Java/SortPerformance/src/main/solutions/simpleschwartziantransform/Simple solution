@@ -1,0 +1,7 @@
+This solution uses a class for the collection of widgets:
+By making our own class with the responsibility to know how we handle having multiple widgets we cure
+a primitive obsession waiting to happen.
+
+Then we extend this widget list class with a sort() method that has the responsibility of sorting the widgets.
+It is this method that has the responsibility of knowing that sorting should be done using a Schwartzian transform
+to reduce the number of calls to the expensive method.

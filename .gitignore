@@ -1,4 +1,8 @@
 **/out/
+**/build/
+
 **/.idea/
 !**/.idea/vcs.xml
 !**/.idea/modules.xml
+
+**/.gradle/
